@@ -1,0 +1,29 @@
+html {
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px rgb(0, 0, 0);
+}
+
+html {
+  margin: 0px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+.registration-text {
+  display: none;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+}
